@@ -2,8 +2,8 @@
 
 A curated list of awesome build scripts to compile C/C++ libraries for mobile environments (eg: iOS, Android, etc). 
 
-At the moment, build script based support for building those C/C++ projects's binaries on mobile devices is seriously lacking,
-individuals have therefore wrote their own scripts yet their are hard to discover. Hence this list.
+At the moment, build script based support for building those C/C++ projects's binaries for mobile devices is seriously lacking,
+individuals have therefore wrote their own scripts yet they are hard to discover. Hence this list.
 
 If you are looking for a curated list of c++ frameworks, libraries, resources and shiny things, [awesome-cpp](https://github.com/fffaraz/awesome-cpp) is what you are looking for.
 
