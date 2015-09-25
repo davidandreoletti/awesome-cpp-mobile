@@ -16,6 +16,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
 # List
 
 - [Awesome Build scripts for C/C++ projects targeting mobile environment ](#awesome-cpp)
-	- [Dummy Library](#dummy-library) (iOS/Android)
-	- *Be the first to contribute!*
 
+ - [Poco C++](https://github.com/aksalj/Poco) - Builds Poco C++ libraries [iOS]
+ - *Be the second to contribute!*
